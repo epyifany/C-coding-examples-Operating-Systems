@@ -1,0 +1,7 @@
+submit ls -l
+status
+wait 1
+status
+remove 1
+status
+quit
